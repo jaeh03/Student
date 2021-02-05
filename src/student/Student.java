@@ -7,7 +7,7 @@ package student;
 
 /**
  *
- * @author johnt
+ * This comment was added on 5th of Feb at 9:18 to revise W2 concepts
  */
 public class Student {
     private String name;
