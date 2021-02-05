@@ -7,7 +7,8 @@ package student;
 
 /**
  *
- * This comment was added on 5th of Feb at 9:18 to revise W2 concepts
+ * This comment was added on 5th of Feb at 9:18 to review pull from netbeans
+ * This comment was added from github on Feb 5th, 9:41am to check fetch + merge from github
  */
 public class Student {
     private String name;
